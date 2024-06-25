@@ -1,5 +1,5 @@
 # pygame demo-飞机大战外星人
-# 可直接运行的alien invasion。
+# 自己学习Python写的alien invasion，可以直接运行。
 
 - ## 安装依赖
         pip install pygame 
